@@ -1,12 +1,13 @@
 package ca.cicc.main;
 
-import assignment1.main.Assignment1Driver;
+import ca.ciccc.wmad.assignment2.main.Assignment2Driver;
+import main.LectureNoteDriver;
 
 public class WMAD202DRIVER {
     public static void main(String[] args) {
-        //LectureCodeDriver.run();
-        Assignment1Driver.run();
-        //Assignment2Driver.run();
+        //LectureNoteDriver.run();
+        //Assignment1Driver.run();
+        Assignment2Driver.run();
         //Assignment3Driver.run();
         //Assignment4Driver.run();
         //Assignment5Driver.run();
